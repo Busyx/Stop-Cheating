@@ -6,4 +6,4 @@ rs reload for reload config after edit<br>
 
 # Issue
 It's will ghost when you out of mana<br>
-It's not full macros don't hope for autoRepeat function<br>
+It's not full macros so don't hope for autoRepeat function<br>
