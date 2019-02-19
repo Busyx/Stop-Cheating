@@ -39,7 +39,7 @@
                 "autoRepeat": false
             },
             "36": {
-                "enabled": false,
+                "enabled": true,
                 "Description": "Fusion - Element Fusion (Mana Boost)",
                 "replace2Skill": 360600,
                 "autoRepeat": false
